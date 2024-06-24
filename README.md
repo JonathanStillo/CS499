@@ -19,7 +19,7 @@ This code review is meant to Address the Following:
 
 [x] Look for enhancement: Walk through and explain planned enhancements.
 
-Here is a link to download the Code Review Video: https://wetransfer.com/downloads/8db946472e5220f4e5fc09d8535831c820240624070209/413333ac7c67f79e10c9be08efec852020240624070224/7d60ec?trk=TRN_TDL_01&utm_campaign=TRN_TDL_01&utm_medium=email&utm_source=sendgrid
+Here is a link to view the Code Review Video on Youtube: https://youtu.be/md3p01bTzMc
 
 ## Software Design and Engineering Original/Enhancement: Brick Game Enhancement
 
