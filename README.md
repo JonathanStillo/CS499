@@ -4,11 +4,25 @@
 Hello, my name is Jonathan Castillo (He/Him). I am a Southern New Hampshire University graduate who studied Computer Science and graduated with a Bachelor's Degree! The purpose of this ePortfolio is to provide a detailed introduction of myself via my professional self-assessment, a few artifacts/projects that I produced and personally improved during my years at SNHU, and showcase any future work in a sophisticated and professional manner that can speak for my experience as a Software Engineer. 
 
 ### *Table Of Content*
-1. Code Review
-2. Software Design and Engineering Original/Enhancement: Brick Game
+1. Professional Self-Assessment
+2. Code Review
+3. Software Design and Engineering Original/Enhancement: Brick Game
 4. Algorithms and Data Structure Original/Enhancement: Sudoku Solver
 5. Database Original/Enhancement: Grazioso Salvare Dog Database
-6. Professional Self-Assessment
+
+
+
+
+## Professional Self-Assessment
+
+Although somewhat difficult, my experience in the computer science program was well worth it. My lack of prior software engineering experience something I couldn't ignore, but worked right through. It honestly forced me to come up with solutions and think creatively, which is a lifetime skill I appreciate to the core. To think this all began because I decided to work at a Walmart store and got given the opportunity to attend Southern New Hampshire University's Bachelor of Science in Computer Science degree with little to no out of pocket cost. One could wonder why I had chosen this specific change, and well I have no good answer besides opportunity. I had worked overnights, mornings, and swing shifts at customer service, retail, warehouse, and fast food. None of it really entailed any passion or made me want to stay, but one thing I am passionate about has to be technology. 
+
+I had to use my preferred language, Java/C++, to highlight my abilities, and although I acknowledge that I still have work to do, I am eager to put in the effort. Upon starting my studies at SNHU, I initially learned Python, which appeared to be simple. However, when I encountered Java, I was completely unprepared as I was still getting used to Python. Then along came C++, which was like a breath of fresh air because it was similar to Java with a few minor changes here and there. I knew immediately that I was at ease with Java and C++ programming. Finding out that the majority of my final classes were written in C++ was very destressing, and I even managed to refresh myself on Java with one of my classes' final projects. 
+
+As a student at SNHU, I didn't usually work by myself.  I worked in a group setting and could always rely on my instructor for support and guidance. We had to work as a team to create a variety of projects, which made programming seem unreal. I was working on a project with a large number of people, which inspired me to want to collaborate with them more in order to finish the team project. Through our discussions on project-related issues in the courses, this collaboration developed and persisted. I was excited to get started in the field since it was so much fun.
+
+One note I would like to leave this self-assessment with is that I didn't personally know anyone who knew computer science, therefore I didn't know who I could go or who to guide me (beside the instructor) in learning to solve any particular problem or application. This led to many moments when I felt like giving up from the frustration of not understanding code or misunderstanding asignments. In fact, this very class (CS499) had me extremely frustrated as I had no projects to enhance and essentially started 3 steps backwards. But since I've never been one to give up, I kept going dedicated and determined to succeed! In this journey, I completed each course assignment one at a time, and even though I'm getting close to the finish line, there's still a lot I need to learn and practice every day to be consistent and sharp. After all, I am here managing 3 classes per semester, thus I know I can handle the work! All there is left to do is apply myself and become an official Software Engineer. 
+
 
 ## Code Review
 This code review is meant to Address the Following:
@@ -87,15 +101,3 @@ Here is an image of the Enhanced Project's CRUD file:
 ![Screenshot 2024-06-23 192539](https://github.com/JonathanStillo/CS499/assets/161390011/aadb61aa-3e18-4912-b9c4-616d3057cc8b)
 
 When I thought back on the process of modifying and enhancing the project, I felt really proud of the work I had done. The significance of demonstrating an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals was something I knew of and was glad to still be able to do. I found this project particularly noteworthy because I had originally messed up this project big time. I believe in this class I had received a C, which isn't necessarily bad but is a fallout from the usual A's and B's I receive in class. CS499 Prompted me to go back, redownload the necessary files and tools to revisit this project and fix it up. Granted refixing it would have been my personal enhancement, but pushing myself further and developing the program to be far more useful with simple yet valued implementations was quite the experience. 
-
-## Professional Self-Assessment
-
-Although somewhat difficult, my experience in the computer science program was well worth it. My lack of prior software engineering experience something I couldn't ignore, but worked right through. It honestly forced me to come up with solutions and think creatively, which is a lifetime skill I appreciate to the core. To think this all began because I decided to work at a Walmart store and got given the opportunity to attend Southern New Hampshire University's Bachelor of Science in Computer Science degree with little to no out of pocket cost. One could wonder why I had chosen this specific change, and well I have no good answer besides opportunity. I had worked overnights, mornings, and swing shifts at customer service, retail, warehouse, and fast food. None of it really entailed any passion or made me want to stay, but one thing I am passionate about has to be technology. 
-
-I had to use my preferred language, Java/C++, to highlight my abilities, and although I acknowledge that I still have work to do, I am eager to put in the effort. Upon starting my studies at SNHU, I initially learned Python, which appeared to be simple. However, when I encountered Java, I was completely unprepared as I was still getting used to Python. Then along came C++, which was like a breath of fresh air because it was similar to Java with a few minor changes here and there. I knew immediately that I was at ease with Java and C++ programming. Finding out that the majority of my final classes were written in C++ was very destressing, and I even managed to refresh myself on Java with one of my classes' final projects. 
-
-As a student at SNHU, I didn't usually work by myself.  I worked in a group setting and could always rely on my instructor for support and guidance. We had to work as a team to create a variety of projects, which made programming seem unreal. I was working on a project with a large number of people, which inspired me to want to collaborate with them more in order to finish the team project. Through our discussions on project-related issues in the courses, this collaboration developed and persisted. I was excited to get started in the field since it was so much fun.
-
-One note I would like to leave this self-assessment with is that I didn't personally know anyone who knew computer science, therefore I didn't know who I could go or who to guide me (beside the instructor) in learning to solve any particular problem or application. This led to many moments when I felt like giving up from the frustration of not understanding code or misunderstanding asignments. In fact, this very class (CS499) had me extremely frustrated as I had no projects to enhance and essentially started 3 steps backwards. But since I've never been one to give up, I kept going dedicated and determined to succeed! In this journey, I completed each course assignment one at a time, and even though I'm getting close to the finish line, there's still a lot I need to learn and practice every day to be consistent and sharp. After all, I am here managing 3 classes per semester, thus I know I can handle the work! All there is left to do is apply myself and become an official Software Engineer. 
-
-
