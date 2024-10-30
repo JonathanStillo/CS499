@@ -1,6 +1,4 @@
 # *Jonathan Castillo's ePortfolio*
-
-## Software Engineering ePortfolio
 Hello, my name is Jonathan Castillo (He/Him). I am a Southern New Hampshire University graduate who studied Computer Science and graduated with a Bachelor's Degree! The purpose of this ePortfolio is to provide a detailed introduction of myself via my professional self-assessment, a few artifacts/projects that I produced and personally improved during my years at SNHU, and showcase any future work in a sophisticated and professional manner that can speak for my experience as a Software Engineer. 
 
 ### *Table Of Content*
